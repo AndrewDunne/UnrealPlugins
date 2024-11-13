@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-myTestPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Andrew\Documents\Unreal Projects\EnviroTesting\Intermediate\Build\Win64\x64\EnviroTestingEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Andrew\Documents\Unreal Projects\EnviroTesting\Plugins\myTestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\myTestPlugin\Module.myTestPlugin.cpp.obj"
+"C:\Users\Andrew\Documents\Unreal Projects\EnviroTesting\Plugins\myTestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\myTestPlugin\Default.rc2.res"
+/OUT:"C:\Users\Andrew\Documents\Unreal Projects\EnviroTesting\Plugins\myTestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\myTestPlugin\UnrealEditor-myTestPlugin.lib"

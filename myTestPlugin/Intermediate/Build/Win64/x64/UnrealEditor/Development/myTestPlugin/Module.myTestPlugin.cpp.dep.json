@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\andrew\\documents\\unreal projects\\envirotesting\\plugins\\mytestplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mytestplugin\\module.mytestplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andrew\\documents\\unreal projects\\envirotesting\\intermediate\\build\\win64\\x64\\envirotestingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\andrew\\documents\\unreal projects\\envirotesting\\plugins\\mytestplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mytestplugin\\definitions.mytestplugin.h",
+            "c:\\users\\andrew\\documents\\unreal projects\\envirotesting\\plugins\\mytestplugin\\source\\mytestplugin\\private\\mytestplugin.cpp",
+            "c:\\users\\andrew\\documents\\unreal projects\\envirotesting\\plugins\\mytestplugin\\source\\mytestplugin\\public\\mytestplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
